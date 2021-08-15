@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning java
 - 🌱 I’m currently learning git hub
 - 💞️ I’m looking to collaborate on application development
-- 📫 How to reach me to learn something from you
+- 📫 How to reach me...
 
 <!---
 jayaadityathota/jayaadityathota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
