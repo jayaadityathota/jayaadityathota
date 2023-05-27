@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jayaadityathota
-- 👀 I’m interested in learning java
 - 🌱 I’m currently learning git hub
 - 💞️ I’m looking to collaborate on application development
 - 📫 How to reach me...
